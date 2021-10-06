@@ -7,6 +7,7 @@
   font-weight: bold;
   src: url('https://xem.github.io/unicode13/Twemoji.ttf');
 }
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Canadian+Aboriginal&display=swap');
 :not(i):not([area-hidden]):not([style*="icon" i]):not([class*="icon" i]){
-  font-family: '喵呜', system-ui, sans-serif, 'teimoji';
+  font-family: '喵呜', system-ui, sans-serif, 'teimoji', 'Noto Sans Canadian Aboriginal';
 }
