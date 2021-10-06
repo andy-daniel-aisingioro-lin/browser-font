@@ -1,0 +1,12 @@
+@font-face{
+  font-family: '喵呜';
+  src: url('https://raw.githubusercontent.com/andy-daniel-aisingioro-lin/browser-font/main/Miao.ttf');
+}
+@font-face{
+  font-family: 'twemoji';
+  font-weight: bold;
+  src: url('https://xem.github.io/unicode13/Twemoji.ttf');
+}
+:not(i):not([area-hidden]):not([style*="icon" i]):not([class*="icon" i]){
+  font-family: '喵呜', system-ut, sans-serif, 'teimoji';
+}
