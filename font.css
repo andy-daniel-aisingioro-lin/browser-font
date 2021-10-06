@@ -8,5 +8,5 @@
   src: url('https://xem.github.io/unicode13/Twemoji.ttf');
 }
 :not(i):not([area-hidden]):not([style*="icon" i]):not([class*="icon" i]){
-  font-family: '喵呜', system-ut, sans-serif, 'teimoji';
+  font-family: '喵呜', system-ui, sans-serif, 'teimoji';
 }
