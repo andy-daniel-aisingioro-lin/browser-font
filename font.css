@@ -1,7 +1,10 @@
+/*
 @font-face{
   font-family: '喵呜';
   src: url('https://raw.githubusercontent.com/andy-daniel-aisingioro-lin/browser-font/main/Miao.ttf');
 }
+*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Canadian+Aboriginal&family=Noto+Sans+Math&family=Noto+Sans+Mongolian&family=Noto+Sans+Symbols&family=Noto+Sans+Symbols+2&family=Noto+Sans+Yi&family=Noto+Serif+Tibetan&display=swap');
 @font-face{
   font-family: 'twemoji';
   font-weight: bold;
