@@ -6,7 +6,7 @@
 }
 @font-face{
   font-family: 'NospzGothicMoe';
-  src: url('https://img.moegirl.org.cn/common/e/e3/NospzGothicMoe_20210815.ttf');
+  src: url('https://github.com/CappuccinoZ/font/raw/main/NospzGothicMoe.ttf');
 }
 :not(i):not([aria-hidden]):not([style*="icon" i]):not([class*="icon" i]):not([class*="css-"]){
   font-family: system-ui,sans-serif,'twemoji','NospzGothicMoe','Noto Sans Canadian Aboriginal','Noto Sans Yi','Noto Sans Math','Noto Sans Symbols','Noto Sans Symbols 2','Noto Serif Tibetan','Noto Sans Mongolian'!important;
