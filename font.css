@@ -6,7 +6,7 @@
 }
 @font-face{
   font-family: 'nom na tong';
-  src: url('https://github.com/nomfoundation/font/releases/download/v4.8/NomNaTong-Regular.otf');
+  src: url('https://github.com/nomfoundation/font/releases/download/v4.8/NomNaTong-Regular.ttf');
 }
 :not(i):not([aria-hidden]):not([style*="icon" i]):not([class*="icon" i]):not([class*="css-"]){
   font-family: system-ui,sans-serif,'twemoji','nom na tong','Noto Sans Canadian Aboriginal','Noto Sans Yi','Noto Sans Math','Noto Sans Symbols','Noto Sans Symbols 2','Noto Serif Tibetan','Noto Sans Mongolian'!important;
