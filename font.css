@@ -5,9 +5,9 @@
   src: url('https://xem.github.io/unicode13/Twemoji.ttf');
 }
 @font-face{
-  font-family: 'nom na tong';
-  src: url('https://github.com/nomfoundation/font/releases/download/v4.8/NomNaTong-Regular.ttf');
+  font-family: 'Han-Nom Gothic';
+  src: url('https://github.com/andy-daniel-aisingioro-lin/browser-font/raw/main/Han-Nom%20Gothic%201.32.otf');
 }
 :not(i):not([aria-hidden]):not([style*="icon" i]):not([class*="icon" i]):not([class*="css-"]){
-  font-family: system-ui,sans-serif,'twemoji','Noto Sans SC','Noto Sans Canadian Aboriginal','Noto Sans Yi','Noto Sans Math','Noto Sans Symbols','Noto Sans Symbols 2','Noto Serif Tibetan','Noto Sans Mongolian'!important;
+  font-family: system-ui,sans-serif,'twemoji','Han-Nom Gothic','Noto Sans Canadian Aboriginal','Noto Sans Yi','Noto Sans Math','Noto Sans Symbols','Noto Sans Symbols 2','Noto Serif Tibetan','Noto Sans Mongolian'!important;
 }
