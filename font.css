@@ -3,15 +3,11 @@
   font-family: 'twemoji';
   font-weight: bold;
   src: url('https://xem.github.io/unicode13/Twemoji.ttf');
-}/*
+}
 @font-face{
-  font-family: 'NospzGothicMoe';
-  src: url('https://raw.githubusercontent.com/CappuccinoZ/font/main/NospzGothicMoe.ttf');
-}*/
-@font-face{
-  font-family: 'NospzGothicMoe';
+  font-family: 'Han-Nom Gothic';
   src: url('https://raw.githubusercontent.com/andy-daniel-aisingioro-lin/browser-font/main/Han-Nom Gothic 1.32.otf');
 }
 :not(i):not([aria-hidden]):not([style*="icon" i]):not([class*="icon" i]):not([class*="css-"]){
-  font-family: system-ui,sans-serif,'twemoji','NospzGothicMoe','Noto Sans Canadian Aboriginal','Noto Sans Yi','Noto Sans Math','Noto Sans Symbols','Noto Sans Symbols 2','Noto Serif Tibetan','Noto Sans Mongolian'!important;
+  font-family: system-ui,sans-serif,'twemoji','Han-Nom Gothic','Noto Sans Canadian Aboriginal','Noto Sans Yi','Noto Sans Math','Noto Sans Symbols','Noto Sans Symbols 2','Noto Serif Tibetan','Noto Sans Mongolian'!important;
 }
