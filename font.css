@@ -1,13 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC&family=Noto+Sans+Canadian+Aboriginal&family=Noto+Sans+Math&family=Noto+Sans+Mongolian&family=Noto+Sans+Symbols&family=Noto+Sans+Symbols+2&family=Noto+Sans+Yi&family=Noto+Serif+Tibetan&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Canadian+Aboriginal&family=Noto+Sans+Math&family=Noto+Sans+Mongolian&family=Noto+Sans+Symbols&family=Noto+Sans+Symbols+2&family=Noto+Sans+Yi&family=Noto+Serif+Tibetan&display=swap');
 @font-face{
   font-family: 'twemoji';
   font-weight: bold;
   src: url('https://xem.github.io/unicode13/Twemoji.ttf');
 }
 @font-face{
-  font-family: 'Han-Nom Gothic';
-  src: url('https://github.com/andy-daniel-aisingioro-lin/browser-font/raw/main/Han-Nom%20Gothic%201.32.otf');
+  font-family: 'NospzGothicMoe';
+  src: url('https://img.moegirl.org.cn/common/e/e3/NospzGothicMoe_20210815.ttf');
 }
 :not(i):not([aria-hidden]):not([style*="icon" i]):not([class*="icon" i]):not([class*="css-"]){
-  font-family: system-ui,sans-serif,'twemoji','Han-Nom Gothic','Noto Sans Canadian Aboriginal','Noto Sans Yi','Noto Sans Math','Noto Sans Symbols','Noto Sans Symbols 2','Noto Serif Tibetan','Noto Sans Mongolian'!important;
+  font-family: system-ui,sans-serif,'twemoji','NospzGothicMoe','Noto Sans Canadian Aboriginal','Noto Sans Yi','Noto Sans Math','Noto Sans Symbols','Noto Sans Symbols 2','Noto Serif Tibetan','Noto Sans Mongolian'!important;
 }
