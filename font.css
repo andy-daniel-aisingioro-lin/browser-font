@@ -7,6 +7,7 @@
 @font-face{
   font-family: 'Han-Nom Gothic';
   src: url('https://raw.githubusercontent.com/andy-daniel-aisingioro-lin/browser-font/main/Han-Nom Gothic 1.32.otf');
+  unicode-range: U+20000-2A6DF;
 }
 :not(i):not([aria-hidden]):not([style*="icon" i]):not([class*="icon" i]):not([class*="css-"]){
   font-family: system-ui,sans-serif,'twemoji','Han-Nom Gothic','Noto Sans Canadian Aboriginal','Noto Sans Yi','Noto Sans Math','Noto Sans Symbols','Noto Sans Symbols 2','Noto Serif Tibetan','Noto Sans Mongolian'!important;
